@@ -2,3 +2,5 @@ py-cord[voice]
 google-generativeai
 google-cloud-texttospeech
 discord
+dotenv
+demjson3
