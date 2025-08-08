@@ -1,0 +1,4 @@
+py-cord[voice]
+google-generativeai
+google-cloud-texttospeech
+discord
